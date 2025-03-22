@@ -71,6 +71,7 @@ const teams: Team[] = [
   { id: 56, teamName: "Hack it up", leaderName: "Bollineni Mohan krishna sai", email: "mohankrishnasaibollineni@gmail.com" },
   { id: 57, teamName: "Team CRYSIS", leaderName: "Anant Bhatnagar", email: "workwithanant7@gmail.com" },
   { id: 58, teamName: "Tech wizard", leaderName: "Chandan Delhi", email: "ckseptember7@gmail.com" },
+  { id: 59, teamName: "TriCoders", leaderName: "Hindocha Hitarth", email: "hindochahitarth@gmail.com" }
 ];
 
 function Registered() {
